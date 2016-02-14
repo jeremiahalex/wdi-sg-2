@@ -1,19 +1,6 @@
----
-title: Build an Internet Fundamentals Website using HTML Lab
-type: lab
-duration: "1:25"
-creator:
-    name: Jeremiah Alexander
-    city: Singapore
-competencies: Front-end intro
----
-
-
 # Build Internet Fundamentals Website using HTML Lab
 
 ## Introduction
-
-> ***Note:*** _This can be a pair programming activity or done independently._
 
 ###Description
 

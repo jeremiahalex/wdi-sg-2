@@ -1,18 +1,6 @@
----
-title: Command line lab
-type: lab
-duration: "1:25"
-creator:
-    name: Jay Nappy
-    city: LA
-competencies: Workflow
----
-
 # Command line lab
 
 ## Introduction
-
-> ***Note:*** _This can be a pair programming activity or done independently._
 
 Developing web apps requires a degree of comfort navigating and interacting with your operating system through the command line, and similar to how you'll be practicing writing and running Ruby and JavaScript later in the course, we'll be practicing creating, modifying, and moving files and folders in your terminal to get you practicing Unix commands.
 
@@ -30,8 +18,8 @@ Be sure to use the cheatsheets in the "Additional Resources" section in case you
   - in the "my-favorite-things" folder, create a folder called "books"
   - create a folder in books named after your favorite author (e.g. "mark-twain", or "john-grisham", but avoid spaces!)
   - create files named after some of the author's books in the author's folder
-  - open the books folder in atom/sublime
-  - edit each file to put a brief description of the book
+  - open the books folder in atom/sublime/brackets
+  - edit each file (ideally in nano) to put a brief description of the book
 
 
 - Organize your favorite movies
@@ -87,7 +75,7 @@ No starter code needed for this lab!
 
 #### Deliverable
 
-Be sure you open up your "my-favorite-things" directory in Sublie/Atom, so you can track your progress. Here's a look at what your files/folders should look like after each big step in the exercise:
+Be sure you open up your "my-favorite-things" directory in Sublie/Atom/Brackets, so you can track your progress. Here's a look at what your files/folders should look like after each big step in the exercise:
 
 - After "Organize your favorite books":
 
