@@ -1,7 +1,5 @@
 # Update Internet Fundamentals Website using CSS Homework
 
-## Introduction
-
 ###Description
 
 Update your Internet Fundamentals Website to include include an external stylesheet.
