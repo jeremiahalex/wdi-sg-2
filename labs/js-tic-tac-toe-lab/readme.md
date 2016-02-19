@@ -1,13 +1,3 @@
----
-title: Tic Tac Toe Lab
-type: lab
-duration: "8"
-creator:
-    name: Micah Rich
-    city: LA
-competencies: Front-end intro
----
-
 # Tic Tac Toe Javascript
 
 ## Introduction
