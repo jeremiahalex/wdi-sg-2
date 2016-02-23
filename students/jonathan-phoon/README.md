@@ -3,10 +3,11 @@
 You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
 
 ### Homework 
-* [Home work name](http://giftofjehovah.github.io/tictactoe)
+* [TicTacToe](http://giftofjehovah.github.io/tictactoe)
+* [Calculator](http://giftofjehovah.github.io/calculator)
 
 ### Labs 
-* [Lab name](http://giftofjehovah.github.io/timer)
+* [Timer](http://giftofjehovah.github.io/timer)
 
 ### Projects 
 * [Project name](http://giftofjehovah.github.io/tictactoe.)
