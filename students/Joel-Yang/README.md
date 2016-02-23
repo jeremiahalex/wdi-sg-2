@@ -7,7 +7,7 @@ _Things I like:_
 
 ## Homework
 
-_List of [Homework](#https://jeremiahalex.gitbooks.io/sg-wdi-2/content/homework/index.html)_
+_List of_ [Homework](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/homework/index.html)
 
 
   * Completed
