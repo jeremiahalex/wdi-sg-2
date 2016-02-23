@@ -1,12 +1,5 @@
 # CX CHUA Cheng Xun
-Hello
-### Project
-* [A]
-* [B]
-### Homework
-0. Lab1
-0. Lab2
+## [Git Profile Page](https://github.com/cxchua)
+## [Timer Game] (http://cxchua.github.io/timer/)
+## [Tic Tac Toe Game] (http://cxchua.github.io/tictactoe/)
 
-```javascript
-var x = 1;
-```
