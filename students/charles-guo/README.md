@@ -1,12 +1,14 @@
-# Your Name
+# Charles Guo
 
-You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
+Hi! I am currently doing the WDI course at GA.
+* [Github homepage (it's currently a white page!)](http://charlesguo.github.io)
 
 ### Homework
 * [Home work name](#link_to_your_homework_repo)
 
 ### Labs
-* [Lab name](#link_to_your_lab_repo)
+* [tictactoe](http://charlesguo.github.io/tictactoe)
+* [timer](http://charlesguo.github.io/timer)
 
 ### Projects
 * [Project name](#link_to_your_project_repo)
