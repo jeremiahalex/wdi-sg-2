@@ -1,9 +1,7 @@
-# Testing
+# Stay for awhile, have a look around at the stuff I've done.
 
-##Testing2
+1.A little game called tic-tac-toe
+*[TicTacToe](http://dkat90.github.io/tic-tac-toe/)
 
-###Testing3
-
-0. lalallala
-
-* lalalalla
+2.A timer for you perhaps?
+*[Timer](http://dkat90.github.io/timer/)
