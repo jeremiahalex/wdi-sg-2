@@ -3,13 +3,15 @@
 YO!
 
 ### Homework 
-* [Tic Tac Toe](# http://ozy8.github.io/tic-tac-toe)
+* [Tic Tac Toe](http://ozy8.github.io/tic-tac-toe)
+
+
 
 ### Labs 
-* [Stopwatch](# http://ozy8.github.io/stopwatch)
+* [Stopwatch](http://ozy8.github.io/stopwatch)
+* [Calculator](http://ozy8.github.io/calculator)
 
 ### Projects 
-* [Project name](#link_to_your_project_repo)
 
 
 
