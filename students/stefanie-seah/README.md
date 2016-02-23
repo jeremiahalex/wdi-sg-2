@@ -5,6 +5,7 @@ I am secretive
 ### Homework 
 * [Stopwatch](https://silverframe.github.io/stopwatch)
 * [Tic Tac Toe](https://silverframe.github.io/tic-tac-toe) 
+* [Calculator](http://silverframe.github.io/js-calculator/)
 
 ### Labs 
 * [Lab name](#link_to_your_lab_repo)
