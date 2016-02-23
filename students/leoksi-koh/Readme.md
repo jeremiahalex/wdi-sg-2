@@ -1,12 +1,16 @@
-# Your Name
+# Leok Si
 
-You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
+I am currently learning programming at GA!
+(http://leokleok.github.io)
+
 
 ### Homework
 * [Home work name](#link_to_your_homework_repo)
 
 ### Labs
-* [Lab name](#link_to_your_lab_repo)
+0. [Timer] (http://leokleok.github.io/Timer)
+0. [Tick Tac Toe] (http://leokleok.github.io/Tic-Tac-Toe)
+
 
 ### Projects
 * [Project name](#link_to_your_project_repo)
