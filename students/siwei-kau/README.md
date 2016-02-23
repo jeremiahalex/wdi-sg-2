@@ -3,19 +3,14 @@
 
 ### Homework
 
-* [Home work name][#link to your homework repo]
+* [Tic Tac Toe](https://github.com/swkau/tictactoe.git)
 
-Homework name
-0. Lab1
-0. Lab2
-0. Lab3
+### Labs
 
-###
+* [Stopwatch](https://github.com/swkau/stopwatch.git)
 
-*
+### Projects
 
-###
-
-[anchor text](url link)
+* coming soon...
 
 
