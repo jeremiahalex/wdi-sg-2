@@ -35,7 +35,7 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 
 # Contributing changes
 ```
-- **Changes made to people's code**
+- Changes made to people's code
 ```
 
 ### Changes
