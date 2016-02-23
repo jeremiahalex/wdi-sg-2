@@ -1,4 +1,4 @@
-# Your Name
+# Yi Shu
 added links to tictactoe and stopwatch
 
 ### Homework
