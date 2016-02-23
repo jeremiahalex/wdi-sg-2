@@ -4,9 +4,8 @@ You can add a little description here if you want. What you're currently working
 
 ### Homework
 * [Home work name](#link_to_your_homework_repo)
-0. Lab1
-0. Lab2
-0. Lab3
+0. [Tic Tac Toe](http://jolozy.github.io/TicTacToe)
+0. [Stopwatch] (http://jolozy.github.io/stopwatch)
 
 ### Labs
 * [Lab name](#link_to_your_lab_repo)
