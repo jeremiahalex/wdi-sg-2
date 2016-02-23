@@ -1,14 +1,18 @@
 # Your Name
-You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
+added links to tictactoe and stopwatch
 
 ### Homework
-* Home work name
+* http://tanyishu.github.io
+* http://tanyishu.github.io/stopwatch
+* http://tanyishu.github.io/tictactoe
+
 
 ### Labs
 * Lab name
 
 ### Projects
-* Project name
+* https://github.com/tanyishu/stopwatch
+* https://github.com/tanyishu/tictactoe
 
 
 ``` Javascript
