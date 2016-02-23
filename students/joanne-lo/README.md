@@ -1,14 +1,13 @@
-# Your Name
+# Joanne Lo
 
-You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
+Waffles
 
 ### Homework
-* [Home work name](#link_to_your_homework_repo)
 0. [Tic Tac Toe](http://jolozy.github.io/TicTacToe)
 0. [Stopwatch] (http://jolozy.github.io/stopwatch)
 
 ### Labs
-* [Lab name](#link_to_your_lab_repo)
+0.
 
 ### Projects
-* [Project name](#link_to_your_project_repo)
+0.
