@@ -39,10 +39,11 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 ```
 
 ### Changes
-```
+
 **_(23/2)_**
+```
  - Added README.md
  - Formatted README.md for stylistic purposes
  - Created links to REPOS
- - Added _TicTacToe, Stopwatch_
- ```
+ - Added TicTacToe, Stopwatch
+```
