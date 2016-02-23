@@ -3,10 +3,10 @@
 You can add a little description here if you want. What you're currently working on, how you're feeling etc. Remember it's public though.
 
 ### Homework 
-* [Home work name](#link_to_your_homework_repo)
+* [Home work name](http://giftofjehovah.github.io/tictactoe)
 
 ### Labs 
-* [Lab name](#link_to_your_lab_repo)
+* [Lab name](http://giftofjehovah.github.io/timer)
 
 ### Projects 
-* [Project name](#link_to_your_project_repo)
+* [Project name](http://giftofjehovah.github.io/tictactoe.)
