@@ -7,7 +7,7 @@ Hi! I am currently doing the WDI course at GA.
 * [Home work name](#link_to_your_homework_repo)
 
 ### Labs
-* [tictactoe](http://charlesguo.github.io/tictactoe)
+* [JQuery tictactoe](http://charlesguo.github.io/tictactoe)
 * [timer](http://charlesguo.github.io/timer)
 * [js-calculator](http://charlesguo.github.io/js-calculator-lab)
 
