@@ -2,13 +2,16 @@
 
 Hello!
 
+### Homepage
+
+* [Homepage](http://khoodose.github.io/)
+
 ### Homework
 * [Home work name](#link_to_your_homework_repo)
 
 ### Labs
-* [Lab name](#link_to_your_lab_repo)
+* [Interval timer](http://khoodose.github.io/intervaltimer/)
+* [JS Calculator](http://khoodose.github.io/jscalculator/)
 
 ### Projects
-* [Project name](#link_to_your_project_repo)
-
-```
+* [Tic Tac Toe](http://khoodose.github.io/tictactoe/)
