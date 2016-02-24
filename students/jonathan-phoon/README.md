@@ -4,6 +4,7 @@ You can add a little description here if you want. What you're currently working
 
 ### Homework 
 * [TicTacToe](http://giftofjehovah.github.io/tictactoe)
+* [TicTacToe Jquery](https://github.com/giftofjehovah/tictactoe/tree/jquery)
 * [Calculator](http://giftofjehovah.github.io/calculator)
 
 ### Labs 
