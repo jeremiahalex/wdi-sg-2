@@ -15,4 +15,5 @@ Hello!
 * [jQuery Homes](http://khoodose.github.io/jqueryhomes/)
 
 ### Projects
-* [Tic Tac Toe](http://khoodose.github.io/tictactoe/)
+* [JQuery Tic Tac Toe](http://khoodose.github.io/tictactoe/)
+* [Tic Tac Toe repo with vanilla JS and jQuery files](https://github.com/khoodose/tictactoe)
