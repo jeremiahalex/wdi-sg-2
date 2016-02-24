@@ -12,6 +12,7 @@ Hello!
 ### Labs
 * [Interval timer](http://khoodose.github.io/intervaltimer/)
 * [JS Calculator](http://khoodose.github.io/jscalculator/)
+* [jQuery Homes](http://khoodose.github.io/jqueryhomes/)
 
 ### Projects
 * [Tic Tac Toe](http://khoodose.github.io/tictactoe/)
