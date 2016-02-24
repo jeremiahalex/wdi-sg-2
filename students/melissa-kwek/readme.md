@@ -5,8 +5,9 @@
 
 
 ### Homework 
-* [tic tac toe](#https://github.com/shiado/tictactoe.git)
+* [tic tac toe](https://github.com/shiado/tictactoe.git)
 
 ### Labs 
-* [stop watch](#https://github.com/shiado/Stopwatch.git)
+* [stop watch](https://github.com/shiado/Stopwatch.git)
+* [calculator](https://github.com/shiado/Calculator.git)
 
