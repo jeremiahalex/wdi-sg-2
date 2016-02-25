@@ -4,11 +4,12 @@ YO!
 
 ### Homework 
 * [Tic Tac Toe](http://ozy8.github.io/tic-tac-toe)
+* [Stopwatch](http://ozy8.github.io/stopwatch)
+* [About Me Page](http://ozy8.github.io/AboutMe)
 
 
 
 ### Labs 
-* [Stopwatch](http://ozy8.github.io/stopwatch)
 * [Calculator](http://ozy8.github.io/calculator)
 
 ### Projects 
