@@ -14,5 +14,5 @@ Below is a review of WDI 2016.
 
 ### Projects
 * [gameplan1](#https://trello.com/b/ejScVsnr/gameplan1)
-# calculator
+
 
