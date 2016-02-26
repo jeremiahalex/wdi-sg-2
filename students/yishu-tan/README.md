@@ -1,6 +1,7 @@
 # Yi Shu
 23/02/2016 added links to tictactoe and stopwatch
 24/02/2016 added links to calculator
+26/02/2016 added links to trello for Project 1
 ### Homework
 * http://tanyishu.github.io
 * http://tanyishu.github.io/stopwatch
@@ -8,7 +9,7 @@
 * http://tanyishu.github.io/calculator
 
 ### Labs
-* Lab name
+* https://trello.com/b/HOeMZJgF/project-1
 
 ### Projects
 * https://github.com/tanyishu/stopwatch
