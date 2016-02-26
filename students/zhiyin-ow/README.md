@@ -1,6 +1,7 @@
 # OW ZHIYIN
 
-YO!
+Hey there!!
+You can view my Trello at (https://trello.com/b/6wWPUVzh/project-1)
 
 ### Homework 
 * [Tic Tac Toe](http://ozy8.github.io/tic-tac-toe)
