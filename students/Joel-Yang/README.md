@@ -31,7 +31,7 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 
 ## Projects
 
-
+ - [Trello](https://trello.com/b/oDGtKOpd/project-1)
 
 # Contributing changes
 ```
@@ -46,4 +46,8 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
  - Formatted README.md for stylistic purposes
  - Created links to REPOS
  - Added TicTacToe, Stopwatch
+```
+**_(23/2)_**
+```
+ - Added link to Trello for project 1
 ```
