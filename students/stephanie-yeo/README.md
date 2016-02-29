@@ -8,9 +8,6 @@ Below is an update on the projects for WDI 2016.
 * [Mobile First Responsive Profile Page](#)
 
 
-### Labs
-* [Lab name](#link_to_your_lab_repo)
-
 ### Projects
 * [gameplan1](#https://trello.com/b/ejScVsnr/gameplan1)
 
