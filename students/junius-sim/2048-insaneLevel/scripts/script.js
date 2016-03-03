@@ -11,22 +11,26 @@ function pressKeys() {
       game.slideUp();
       game.generateNew();
       game.gameOver();
+      game.youWon();
     }
     else if ( event.which === 40 ) {
       game.slideDown();
       game.generateNew();
       game.gameOver();
+      game.youWon();
     }
     else if ( event.which === 37 ) {
       // console.log("left key was pressed");
       game.slideLeft();
       game.generateNew();
       game.gameOver();
+      game.youWon();
     }
     else if ( event.which === 39 ) {
       game.slideRight();
       game.generateNew();
       game.gameOver();
+      game.youWon();
     }
   });
 }
@@ -38,6 +42,7 @@ function Game() {
   this.clearBoard = function () {
     $grid.text("");
     this.changeColor();
+    this.removeMessage();
   }
   // Generate two random numbers on two random grids
   this.startGame = function () {
@@ -155,6 +160,7 @@ function Game() {
       while(lRandomGrid === null);
       $grid.eq( lRandomGrid ).text( this.getNumber() );
       this.changeColor();
+      this.slideSound();
     }
   }
 
@@ -168,12 +174,43 @@ function Game() {
                 if (!allowMove[0] && !allowMove[1] && !allowMove[2]) {
                   this.slideLeft();
                     if (!allowMove[0] && !allowMove[1] && !allowMove[2]) {
-                      alert("Go back to primary school");
+                      this.gameOverMessage();
                     }
                 }
             }
         }
     }
+  }
+
+  this.gameOverMessage = function() {
+    $('#message').text("Game Over").addClass("messageEnd");
+    this.gameOverSound();
+  }
+
+  this.removeMessage = function() {
+    $('#message').removeClass("messageEnd");
+  }
+
+  this.youWon = function() {
+    for (var i=0; i <= 8; i++) {
+      if ( $grid.eq(i).text() === "128" ) {
+        $('#message').text("Congrats! We secretly made it easier").addClass("messageEnd");
+      }
+    }
+  }
+
+  this.slideSound = function() {
+    var audioElement = document.createElement('audio');
+    audioElement.setAttribute('src', 'slide.mp3');
+    audioElement.setAttribute('autoplay', 'autoplay');
+    audioELement.play();
+  }
+
+  this.gameOverSound = function() {
+    var audioElement = document.createElement('audio');
+    audioElement.setAttribute('src', 'gameover.wav');
+    audioElement.setAttribute('autoplay', 'autoplay');
+    audioELement.play();
   }
 
   // Sliding Up
@@ -806,8 +843,6 @@ function Game() {
       }
     }
   }
-
-
 
 // End of Object Prototype
 }
