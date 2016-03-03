@@ -7,6 +7,7 @@ Just doing my best
 * [Tic Tac Toe](https://silverframe.github.io/tic-tac-toe) 
 * [Calculator](http://silverframe.github.io/js-calculator/)
 * [Trello](https://trello.com/b/xLGuTE0M/first-game-ever) 
+* [Battleship](https://silverframe.github.io/battleship) 
 
 ### Labs 
 * [Lab name](#link_to_your_lab_repo)
