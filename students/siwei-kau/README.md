@@ -13,6 +13,6 @@
 
 ### Projects
 
-* coming soon...
+* Project 1: [Source](https://github.com/swkau/project1)
 
 ### Trello [Link](https://trello.com/b/sBve3KS4)
