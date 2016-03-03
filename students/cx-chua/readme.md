@@ -10,7 +10,7 @@
 ### [Calculator Repo] (https://github.com/cxchua/calculator)
 ## [Zillow] (http://cxchua.github.io/zillow/)
 ### [Zillow Repo] (https://github.com/cxchua/zillow)
-## [Project 1 Game - 1st Draft Completed](http://cxchua.github.io/Project-1-Game/)
+## [Project 1 Game - Finalized](http://cxchua.github.io/Project-1-Game/)
 ### [Project 1 Game v1 Repo](https://github.com/cxchua/Project-1-Game)
 ## [Project Trello Board](https://trello.com/b/fHfzJ9gO)
 
