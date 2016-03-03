@@ -18,7 +18,7 @@ Hello!
 * [JQuery Tic Tac Toe](http://khoodose.github.io/tictactoe/)
 * [Tic Tac Toe repo with vanilla JS and jQuery files](https://github.com/khoodose/tictactoe)
 
-* [Project 1 - Memory Game](http://khoodose.github.io/memorygame/)
+* [Project 1 - Memory Game(updated)](http://khoodose.github.io/memorygame/)
 
 ### Trello boards for projects
 
