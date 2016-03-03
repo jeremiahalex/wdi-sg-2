@@ -46,6 +46,15 @@ body {
   margin-bottom: 15px;
 }
 
+.instructions3 {
+  color: #776e65;
+  font-size: 14px;
+  text-align: left;
+  float: right;
+  width: 190px;
+  line-height: 1.4;
+}
+
 /* Button */
 #newGame {
   font-size: 17px;
