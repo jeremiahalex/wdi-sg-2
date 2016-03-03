@@ -31,7 +31,7 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 
 ## Projects
 
- - [Trello](https://trello.com/b/oDGtKOpd/project-1)
+ - [Reaction](misashi.github.io/reactiongame)
 
 # Contributing changes
 ```
@@ -47,7 +47,8 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
  - Created links to REPOS
  - Added TicTacToe, Stopwatch
 ```
-**_(23/2)_**
+**_(3/3)_**
 ```
- - Added link to Trello for project 1
+ - Added link to project 1
+ - CSS after upload looks to be broken, need to determine fix. - The most stable version, other variants are still being      updated
 ```
