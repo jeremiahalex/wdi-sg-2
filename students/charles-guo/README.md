@@ -7,12 +7,12 @@ Hi! I am currently doing the WDI course at GA.
 * [Home work name](#link_to_your_homework_repo)
 
 ### Labs
-* [JQuery tictactoe](http://charlesguo.github.io/tictactoe)
-* [timer](http://charlesguo.github.io/timer)
-* [js-calculator](http://charlesguo.github.io/js-calculator-lab)
+1. [JQuery tictactoe](http://charlesguo.github.io/tictactoe)
+1. [timer](http://charlesguo.github.io/timer)
+1. [js-calculator](http://charlesguo.github.io/js-calculator-lab)
 
 ### Projects
-* [Project 1 - Memory Game](http://charlesguo.github.io/memory-game)
+1. [Project 1 - Memory Game](http://charlesguo.github.io/memory-game)
 
 ### Other links
 * [Trello Board](https://trello.com/b/tVh2m0Qb/project-1)
