@@ -12,7 +12,7 @@ Hi! I am currently doing the WDI course at GA.
 * [js-calculator](http://charlesguo.github.io/js-calculator-lab)
 
 ### Projects
-* [Project name](#link_to_your_project_repo)
+* [Project 1 - Memory Game](http://charlesguo.github.io/memory-game)
 
 ### Other links
 * [Trello Board](https://trello.com/b/tVh2m0Qb/project-1)
