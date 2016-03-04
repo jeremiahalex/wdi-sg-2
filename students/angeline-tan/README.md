@@ -13,4 +13,5 @@ Summary of links to the work done in WDI 15/02/16 - 15/05/16.
 * Calculator App [Repo](https://github.com/Lnfra/calculator) [Demo](https://lnfra.github.io/calculator)
 
 ### Projects 
-* Project 1: Two Player Game [Scrum Board](https://trello.com/b/ZD2KUx8c)
+* Project 1: Othello [Scrum Board](https://trello.com/b/ZD2KUx8c) 
+[Repo](https://github.com/Lnfra/othello) [Demo (4x4 Board)](https://lnfra.github.io/othello) [Demo (8x8 Board)](https://lnfra.github.io/othello/full)
