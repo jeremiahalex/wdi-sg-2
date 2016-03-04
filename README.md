@@ -1,5 +1,5 @@
-# GA SG WDI 2 - Materials 
-Here you can find all the starter code for labs and homework. 
+# GA SG WDI 2 - Materials
+Here you can find all the starter code for labs and homework.
 
 __You must also use this repo to notify of your completed homework. Follow the instructions below to get setup.__
 
