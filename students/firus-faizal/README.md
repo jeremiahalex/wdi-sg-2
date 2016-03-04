@@ -2,4 +2,6 @@ Name
 0. Firus Faizal
 
 Links
-0. "Akan Datang"
+Trello
+Project 1
+https://trello.com/b/RsexbmAR
