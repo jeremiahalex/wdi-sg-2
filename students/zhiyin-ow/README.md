@@ -1,17 +1,20 @@
 # OW ZHIYIN
 
-YO!
+Hey there!!
+You can view my Trello at (https://trello.com/b/6wWPUVzh/project-1)
 
 ### Homework 
 * [Tic Tac Toe](http://ozy8.github.io/tic-tac-toe)
+* [Stopwatch](http://ozy8.github.io/stopwatch)
+* [About Me Page](http://ozy8.github.io/AboutMe)
 
 
 
 ### Labs 
-* [Stopwatch](http://ozy8.github.io/stopwatch)
 * [Calculator](http://ozy8.github.io/calculator)
 
 ### Projects 
+* [Project 1](http://ozy8.github.io/projectDonaldTrumped/)
 
 
 
