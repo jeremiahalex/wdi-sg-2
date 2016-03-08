@@ -4,6 +4,7 @@
 * [Personal Webpage(http://juniussim.github.io)]
 * [Tictactoe(http://juniussim.github.io/tictactoe)]
 * [Timer Game(http://juniussim.github.io/Timer-game)]
+* [Project 1 - Mini 2048 (http://juniussim.github.io/2048mini)]
 
 
 <!-- for my own reference -->
