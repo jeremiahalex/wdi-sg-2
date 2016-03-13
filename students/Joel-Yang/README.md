@@ -31,7 +31,7 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 
 ## Projects
 
-
+ - [Reaction](misashi.github.io/reactiongame)
 
 # Contributing changes
 ```
@@ -46,4 +46,9 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
  - Formatted README.md for stylistic purposes
  - Created links to REPOS
  - Added TicTacToe, Stopwatch
+```
+**_(3/3)_**
+```
+ - Added link to project 1
+ - CSS after upload looks to be broken, need to determine fix. - The most stable version, other variants are still being      updated
 ```
