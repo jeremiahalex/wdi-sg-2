@@ -6,11 +6,12 @@ Under Construction...
 * [Tic-Tac-Toe](https://trello.com/b/Aq1PpHCl/project-1 "Trello")
 
 ### Homework
-* [Tic-Tac-Toe](https://github.com/la-github4WDI/tic-tac-toe "Tic-Tac-Toe")
+* [Tic-Tac-Toe](http://la-github4wdi.github.io/Tic-Tac-Toe "Tic-Tac-Toe")
+* [Responsive profile page](http://la-github4wdi.github.io/myprofile/
 
 ### Labs
-* [Timer](https://github.com/la-github4WDI/Timer.git "Timer")
+* [Timer](http://la-github4wdi.github.io/Timer/ "Timer")
 
 ### Projects
-* [Project name](#link_to_your_project_repo)
+* [3Amigos](http://la-github4wdi.github.io/project1-3Amigos/)
 
