@@ -1,0 +1,8 @@
+<a href="/scotches">Back to All Scotches</a>
+
+<h2><%= @scotch.to_s %></h2>
+
+<a href="/scotches/<%= @scotch.id %>/edit">Edit</a> <form action="/scotches/<%= @scotch.id %>" method="post" class='delete'>
+  <input type="hidden" name="_method" value="delete">
+  <input type='submit' value="Delete">
+</form>

@@ -1,0 +1,51 @@
+<h2>New Scotch</h2>
+
+<form action="/scotches" method="post" class='scotch' id="add-scotch">
+
+  <div>
+    <label for="scotch[brand]">Brand:</label>
+    <input name="scotch[brand]">
+  </div>
+
+  <div>
+    <label for="scotch[year]">Year:</label>
+    <input name="scotch[year]">
+  </div>
+
+  <div>
+    <label for="scotch[blended]">Blended?</label>
+    <!--
+    # sweet form hack:
+    having two inputs with the same name here ensures we can default to false.
+    if both are false, it'll be false!
+    if the first is false but the second gets checked (aka true), the second will take precedence
+    -->
+    <input type="hidden" name="scotch[blended]" value='false'>
+    <input type="checkbox" name="scotch[blended]">
+  </div>
+
+  <div>
+    <label for="scotch[rating]">My Rating:</label>
+
+    <input type="radio" name="scotch[rating]" value="1">
+      <span>1</span>
+    </input>
+    <input type="radio" name="scotch[rating]" value="2">
+      <span>2</span>
+    </input>
+    <input type="radio" name="scotch[rating]" value="3" checked>
+      <span>3</span>
+    </input>
+    <input type="radio" name="scotch[rating]" value="4">
+      <span>4</span>
+    </input>
+    <input type="radio" name="scotch[rating]" value="5">
+      <span>5</span>
+    </input>
+
+  </div>
+
+  <div>
+    <input type="submit" value="Add Scotch" class='btn'>
+  </div>
+</form>

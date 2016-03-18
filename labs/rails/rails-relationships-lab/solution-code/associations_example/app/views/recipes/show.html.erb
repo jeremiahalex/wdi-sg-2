@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @recipe.title %>
+</p>
+
+<p>
+  <strong>Instructions:</strong>
+  <%= @recipe.instructions %>
+</p>
+
+<p>
+  <strong>Servings:</strong>
+  <%= @recipe.servings %>
+</p>
+
+<% if @recipe.course %>
+<p>
+  <strong>Course:</strong>
+  <%= @recipe.course.name %>
+</p>
+<% end %>
+
+<% if @recipe.ingredients.length > 0 %>
+<p>
+  <strong>Ingredients:</strong>
+  <%= @recipe.ingredients.pluck(:name).to_sentence %>
+</p>
+<% end %>
+<%= link_to 'Edit', edit_recipe_path(@recipe) %> |
+<%= link_to 'Back', recipes_path %>
