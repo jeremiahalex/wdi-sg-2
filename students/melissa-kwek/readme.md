@@ -11,8 +11,14 @@
 * [stop watch](https://github.com/shiado/Stopwatch.git)
 * [calculator](https://github.com/shiado/Calculator.git)
 
-### Projects
+### Project 1
 * [Kungfu pong](https://github.com/shiado/Project-1.git)
+
+
+### Project 2
+* [Muse - Git](https://github.com/shiado/Project-1.git)
+* [Must - Heroku](https://github.com/shiado/Project-2-Muse.git)
+
 
 ### Trello
 * [click here] (https://trello.com/b/38a9DEjU/mel-tracker)
