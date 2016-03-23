@@ -14,5 +14,6 @@
 ### Projects
 
 * Project 1: [Source](https://github.com/swkau/project1)
+* Project 2: [Link](https://frozen-plains-74664.herokuapp.com)
 
 ### Trello [Link](https://trello.com/b/sBve3KS4)
