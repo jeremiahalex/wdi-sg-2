@@ -10,8 +10,6 @@ My work from General Assembly - Web Development Immersive 2016
 
 * [Profile Page](http://chelimin.github.io)
 
-### Labs
-* [Lab name](#link_to_your_lab_repo)
-
 ### Projects
 * [Project 1 - Trivia](http://chelimin.github.io/trivia)
+* [Project 2 - Houselist](https://shielded-retreat-65340.herokuapp.com/posts)
