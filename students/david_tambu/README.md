@@ -14,3 +14,7 @@
 
 5.Project 1!
 * [Wanna have some fun with numbers?](http://dkat90.github.io/project-1/)
+
+6.Project 2!
+* [A forum for you?](https://rocky-river-53893.herokuapp.com/)
+* [Need to keep your mind ordered?]( https://vast-sands-88711.herokuapp.com/)
