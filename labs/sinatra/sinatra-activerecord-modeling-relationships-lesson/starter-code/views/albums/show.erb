@@ -1,0 +1,14 @@
+<h2><%= @album.title %> by <%= @album.artist.name %></h2>
+
+<p><strong>Album:</strong> <%= @album.title %></p>
+
+<p><strong>Price:</strong> $<%= @album.price  %></p>
+
+<ul>
+
+	<% @album.genres.each do |genre|  %>
+		<li><%= genre.name %></li>
+	<% end %>
+</ul>
+
+<a href="/albums/<%= @album.id %>/edit">Edit</a>

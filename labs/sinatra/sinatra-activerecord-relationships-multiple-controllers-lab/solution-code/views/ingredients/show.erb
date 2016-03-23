@@ -1,0 +1,24 @@
+<h2><%= @ingredient.name %> </h2>
+
+<p>
+  <strong>Recipes Using this ingredient:</strong>
+  <ul>
+    <% @ingredient.recipes.each do |r| %>
+      <li><%= r.title %></li>
+    <% end %>
+  </ul>
+</p>
+
+<p>
+  <strong>Courses Including this ingredient:</strong>
+  <ul>
+    <% @ingredient.courses.each do |c| %>
+      <li><%= c.name %></li>
+    <% end %>
+  </ul>
+</p>
+
+
+
+
+<a href="/ingredients/<%= @ingredient.id %>/edit">Edit</a>
