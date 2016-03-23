@@ -13,7 +13,8 @@ Hi! I am currently doing the WDI course at GA.
 
 ### Projects
 1. [Project #1 - Memory Game](http://charlesguo.github.io/memory-game)
-1. [Project #2 - Giarclist](https://aqueous-river-31176.herokuapp.com and also https://github.com/charlesguo/project2-giarclist.git)
+1. [Project #2 on Heroku - Giarclist](https://aqueous-river-31176.herokuapp.com)
+1. [Project #2 on Github](https://github.com/charlesguo/project2-giarclist.git)
 
 ### Other links
 * [Trello Board for Project #2](https://trello.com/b/WRQU4knl/project-2)
