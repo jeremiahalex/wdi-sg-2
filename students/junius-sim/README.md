@@ -5,6 +5,7 @@
 * [Tictactoe(http://juniussim.github.io/tictactoe)]
 * [Timer Game(http://juniussim.github.io/Timer-game)]
 * [Project 1 - Mini 2048 (http://juniussim.github.io/2048mini)]
+* [Project 2 - Calendar https://thawing-escarpment-27262.herokuapp.com/ - 5pm version]
 
 
 <!-- for my own reference -->
