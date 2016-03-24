@@ -15,3 +15,5 @@ Summary of links to the work done in WDI 15/02/16 - 15/05/16.
 ### Projects 
 * Project 1: Othello [Scrum Board](https://trello.com/b/ZD2KUx8c) 
 [Repo](https://github.com/Lnfra/othello) [Demo (4x4 Board)](https://lnfra.github.io/othello) [Demo (8x8 Board)](https://lnfra.github.io/othello/full)
+* Project 2: Code Review [Scrum Board](https://trello.com/b/jH1haVsi) 
+[Repo](https://github.com/Lnfra/code_review) [Demo](https://calm-bayou-47699.herokuapp.com/)
