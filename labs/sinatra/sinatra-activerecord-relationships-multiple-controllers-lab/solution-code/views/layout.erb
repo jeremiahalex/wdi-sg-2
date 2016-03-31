@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Cookbook</title>
+  <link href='http://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/recipes">Recipes</a></li>
+        <li><a href="/recipes/new">Add Recipe</a></li>
+        <li><a href="/ingredients">Ingredients</a></li>
+        <li><a href="/ingredients/new">Add Ingredient</a></li>
+        <li><a href="/courses">Courses</a></li>
+        <li><a href="/courses/new">Add Course</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <%= yield %>
+  </main>
+  <footer>
+    &copy; Cookbook
+  </footer>
+</body>
+</html>

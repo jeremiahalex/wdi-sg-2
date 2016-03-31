@@ -1,0 +1,29 @@
+<% if @movie.errors.any? %>
+  <% @movie.errors.full_messages.each do |message| %>
+    <%= message %>
+  <% end %>
+<% end %>
+
+<%= form_for @movie do |f| %>
+  <div class="input-group input-group-lg">
+    <%= f.label :title, class: 'input-group-addon' %>
+    <%= f.text_field :title, class: 'form-control' %>
+  </div>
+  <br>
+  <div class="input-group input-group-lg">
+    <%= f.label :summary, class: 'input-group-addon' %>
+    <%= f.text_area :summary, class: 'form-control' %>
+  </div>
+  <br>
+  <div class="input-group input-group-lg">
+    <%= f.label :youtube_embed_id, class: 'input-group-addon' %>
+    <%= f.text_field :youtube_embed_id, class: 'form-control' %>
+  </div>
+  <br>
+  <div class="input-group input-group-lg">
+    <%= f.label :thumbnail, class: 'input-group-addon' %>
+    <%= f.text_field :thumbnail, class: 'form-control' %>
+  </div>
+  <br>
+  <%= f.submit class: 'btn btn-primary' %>
+<% end %>

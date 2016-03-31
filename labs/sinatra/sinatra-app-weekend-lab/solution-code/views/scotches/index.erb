@@ -1,0 +1,21 @@
+<h2>My Scotches</h2>
+
+
+<ul class="scotches">
+  <% @scotches.each do |scotch| %>
+    <li>
+      <strong>
+        <a href="/scotches/<%= scotch.id %>"><%= scotch.to_s %></a>
+      </strong>
+
+      <a href="/scotches/<%= scotch.id %>/edit">
+        Edit
+      </a>
+
+      <form action="/scotches/<%= scotch.id %>" method="post" class='delete'>
+        <input type="hidden" name="_method" value="delete">
+        <input type='submit' value="Delete">
+      </form>
+    </li>
+  <% end %>
+</ul>

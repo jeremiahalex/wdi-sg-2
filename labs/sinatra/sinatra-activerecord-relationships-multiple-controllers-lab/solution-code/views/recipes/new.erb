@@ -1,0 +1,29 @@
+<h2>New recipe</h2>
+
+<form action="/recipes" method="post">
+  <label for="recipe[title]">Title:</label>
+  <input name="recipe[title]">
+  <br>
+  <label for="recipe[description]">Description:</label>
+  <input name="recipe[description]">
+  <br>
+  <label for="recipe[servings]">Servings:</label>
+  <input name="recipe[servings]">
+  <br>
+  <label for="recipe[course_id]">Course:</label>
+  <select name="recipe[course_id]">
+    <% Course.all.each do |c| %>
+      <option value="<%= c.id %>"><%= "#{c.name}" %></option>
+    <% end %>
+  </select>
+  <br>
+  <label>Ingredients:</label>
+  <br>
+  <% Ingredient.all.each do |i| %>
+    <%= i.name %>
+    <input type="checkbox" name="recipe[ingredient_ids][]" value="<%= i.id %>">
+    <br>
+  <% end %>
+  <br>
+  <input type="submit" value="Create">
+</form>

@@ -1,0 +1,33 @@
+<h1><%= @author.full_name %></h1>
+<h2>Born: <%= @author.dob.to_s %></h2>
+<p id="notice"><%= notice %></p>
+<h2>Books by <%= @author.full_name %></h2>
+<table class="table table-bordered table-stripped">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Summary</th>
+      <th>Author</th>
+      <th>Categories</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @author.books.each do |book| %>
+      <tr>
+        <td><%= book.title %></td>
+        <td><%= truncate book.summary, length: 200 %></td>
+        <td><%= link_to(book.author.full_name, book.author) rescue nil %></td>
+        <td><%= book.categories.map(&:name).to_sentence rescue nil %></td>
+        <td><%= link_to 'Show', book, class: "btn btn-default" %></td>
+        <td><%= link_to 'Edit', edit_book_path(book), class: "btn btn-info" %></td>
+        <td><%= link_to 'Destroy', book, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger" %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+
+<%= link_to 'Edit', edit_author_path(@author) %> |
+<%= link_to 'Back', authors_path %>
