@@ -1,0 +1,13 @@
+<h2 class='text-center'><%= @actor.name %></h2>
+<hr>
+<br>
+<div class="row">
+  <div class="text-center"><%= image_tag @actor.thumbnail %></div>
+  <h4>Age:</h4>
+  <p><%= @actor.age %></p>
+
+  <h4>Movies:</h4>
+  <% @actor.movies.each do |movie| %>
+    <p><%= link_to movie.title, movie_path(movie) %></p>
+  <% end %>
+</div>
