@@ -1,0 +1,46 @@
+<fieldset>
+  <legend>Add an animal</legend>
+  <form method="POST" action="/animals">
+    <div class="form-group col-md-4">
+      <input name="animal[breed]" class="form-control" placeholder="Breed"/>
+    </div>
+    <div class="form-group col-md-4">
+      <input name="animal[family]"  class="form-control" placeholder="Family"/>
+    </div>
+    <div class="form-group col-md-4">
+      <input name="animal[name]"  class="form-control" placeholder="Name"/>
+    </div>
+    <div class="form-group col-md-4">
+      <input name="animal[gender]"  class="form-control" placeholder="Gender(M F)"/>
+    </div>
+    <div class="form-group col-md-4">
+      <input type="date" name="animal[dob]"  class="form-control" placeholder="Birthdate"/>
+    </div>
+    <div class="form-group col-md-4">
+      <button class="btn btn-success col-md-12">Add an Animal</button>
+    </div>
+  </form>
+</fieldset>
+
+<ul>
+<% for(var i=0; i< animals.length; i++) {  %>
+  <li>
+    <h2><%= animals[i].name%></h2>
+    <ul>
+      <li><b>Breed : </b> <%= animals[i].breed %></li>
+      <li><b>Dob : </b> <%= new Date(animals[i].dob).toDateString() %></li>
+      <li><b>Gender : </b> <%= animals[i].gender %></li>
+      <li><b>Family : </b> <%= animals[i].family %></li>
+      <li>
+        <%if(animals[i].status == "orphan"){ %>
+          <a href="/animals/<%= animals[i].id %>/adopt">Adopt</a>
+        <% }else{ %>
+          <a href="/animals/<%= animals[i].id %>/abandon">Abandon</a>
+        <% } %>
+      </li>
+    </ul>
+  </li>
+
+<% } %>
+
+</ul>

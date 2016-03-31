@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  year_of_birth: 1
+  thumbnail: MyText
+
+two:
+  name: MyText
+  year_of_birth: 1
+  thumbnail: MyText
