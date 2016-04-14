@@ -24,8 +24,11 @@ Hello!
 * [Project 2 - Rails Book Review App Heroku hosted](https://fierce-waters-38427.herokuapp.com/)
 * [Project 2 - Rails Book Review App GitHub Repo](https://github.com/khoodose/bookreview)
 
+* [Project 3 - Tradist App Heroku hosted](https://tradist-new-app.herokuapp.com)
+* [Project 3 - Tradist App GitHub Repo](https://github.com/K2GFA/Tradist/tree/demo)
 
 ### Trello boards for projects
 
 * [Project 1](https://trello.com/b/KYcnbExl/ga-wdi-project-1)
 * [Project 2](https://trello.com/b/uJQokmBV/ga-wdi-project-2-book-review-crud-app)
+* [Project 3](https://trello.com/b/RJaWATkd/project-3-api)
