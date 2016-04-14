@@ -13,3 +13,4 @@ Trello: https://trello.com/b/eaS9GIBV
 ### Projects 
 * Singapore Life (http://hakimishere.github.io/singapore-life/)
 * GigStarter (https://sleepy-mountain-77274.herokuapp.com/)
+* Tradist (https://tradist-latest.herokuapp.com/)
