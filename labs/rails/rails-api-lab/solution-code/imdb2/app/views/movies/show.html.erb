@@ -1,0 +1,28 @@
+<h2 class='text-center'><%= @movie.title %></h2>
+<hr>
+<br>
+<div class="row">
+  <div class="text-center">
+    <iframe
+      id="ytplayer"
+      type="text/html"
+      width="640"
+      height="390"
+      src="<%= "http://www.youtube.com/embed/#{@movie.youtube_embed_id}" %>"
+      frameborder="0"
+    /></iframe>
+  </div>
+
+  <h4>Summary:</h4>
+  <p><%= @movie.summary %></p>
+
+  <h4>Actors:</h4>
+  <% @movie.actors.each do |actor| %>
+    <p><%= link_to actor.name, actor_path(actor) %>, age: <%= actor.age %></p>
+  <% end %>
+
+  <h4>Reviews:</h4>
+  <% @movie.reviews.each do |review| %>
+    <p>By: <%= review.user.full_name %><br><%= review.body %></p>
+  <% end %>
+</div>
