@@ -27,8 +27,12 @@ Hello!
 * [Project 3 - Tradist App Heroku hosted](https://tradist-new-app.herokuapp.com)
 * [Project 3 - Tradist App GitHub Repo](https://github.com/K2GFA/Tradist/tree/demo)
 
+* [Project 4 - Edurated App Heroku hosted](https://calm-bayou-23272.herokuapp.com)
+* [Project 4 - Edurated App GitHub Repo](https://github.com/khoodose/ratedgold)
+
 ### Trello boards for projects
 
 * [Project 1](https://trello.com/b/KYcnbExl/ga-wdi-project-1)
 * [Project 2](https://trello.com/b/uJQokmBV/ga-wdi-project-2-book-review-crud-app)
 * [Project 3](https://trello.com/b/RJaWATkd/project-3-api)
+* [Project 4](https://trello.com/there-was-none-for-this-project)
