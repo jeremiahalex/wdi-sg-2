@@ -20,5 +20,5 @@ Summary of links to the work done in WDI 15/02/16 - 15/05/16.
 * Project 3: Stripes Inventory Mgmt Sys (By: Junius Sim, Stefanie Seah, Allan Lee, Angeline Tan)
 [Scrum Board](https://trello.com/b/stbv8LR6/clouds) [Repo](https://github.com/silverframe/stripes) [API Server + Management Login](https://agile-shore-23356.herokuapp.com) [Sample E-Shop (Consumer of API)](https://agile-shore-23356.herokuapp.com/views/index.html)
 * Project 4: Event Tracker [Scrum Board](https://trello.com/b/VlQT5LxY)
-[Repo](https://github.com/Lnfra/event-tracker) [Demo](https://fathomless-garden-38356.herokuapp.com/)
+[Repo](https://github.com/Lnfra/event-tracker) [Demo](https://fathomless-garden-38356.herokuapp.com/) [Eventbrite](https://www.eventbrite.sg/e/scala-days-2016-tickets-25241874125)
 
