@@ -14,5 +14,7 @@
 ### Projects
 
 * Project 1: [Source](https://github.com/swkau/project1)
+* Project 2: Source:[Source](https://github.com/swkau/project2)   Link: [Link](https://frozen-plains-74664.herokuapp.com)
+* Project 3: Source:[https://github.com/swkau/ginger] Link: [Webpage:](https://gingersg.herokuapp.com)
 
 ### Trello [Link](https://trello.com/b/sBve3KS4)
