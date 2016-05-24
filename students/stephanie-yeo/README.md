@@ -1,18 +1,31 @@
 # Stephanie Yeo
 
-Below is an update on the projects for WDI 2016.
+WDI Course Update : 15 Feb 16 - 06 May 16
+Update : 24 Mar
 
 ### Homework
-* [Timer](#)
-* [Tick Tac Toe - JQuery](#)
-* [Mobile First Responsive Profile Page](#)
+* My Profile - Github Responsive Profile Page :
+Repo : https://github.com/Stephyo/stephyo.git
+Demo : http://stephyo.github.io
+
+### Labs
+* Stop Watch App :
+Repo : https://github.com/Stephyo/Stopwatch.git
+Demo : http://stephyo.github.io/timer/
 
 
 ### Projects
-* [gameplan1](#https://trello.com/b/ejScVsnr/gameplan1)
+* Project 1: Scissor, Paper, Rock :
+Repo https://github.com/Stephyo/scissor_paper_rock.git |
+Demo : http://stephyo.github.io/scissor_paper_rock/
 
+* Project 2: Rails App
+Repo : https://github.com/Stephyo/rails_apps.git
 
-### Other Lab Work
-* [Day 1 : About Computer](#)
-* [Day 2 : Resume]
-* [Day 7 : Calculator]
+### Pending
+* Tic Tac Toe game (JQuery version) : [Repo]  |  [Demo] - TBA
+
+* Cookbook : [Repo]  |  [Demo] - TBA
+
+* Rails Authentication : [Repo]  |  [Demo] - TBA
+
