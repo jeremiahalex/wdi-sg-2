@@ -12,6 +12,5 @@ Waffles
 
 ### Projects
 0. [Game: Pokemon Showdown] (http://jolozy.github.io/PokemonMatchGame)
-
-### Project Board
-0. [Project 1] (https://trello.com/b/uwaAYxMl/wdi-project-1)
+0. [App: Travel Log] (https://stormy-headland-89297.herokuapp.com/)
+0. [App: Ginger] (https://gingersg.herokuapp.com)
