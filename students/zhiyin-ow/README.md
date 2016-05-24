@@ -1,7 +1,7 @@
 # OW ZHIYIN
 
 Hey there!!
-You can view my Trello at (https://trello.com/b/6wWPUVzh/project-1)
+You can view my [Trello](https://trello.com/b/6wWPUVzh/project-1)
 
 ### Homework 
 * [Tic Tac Toe](http://ozy8.github.io/tic-tac-toe)
@@ -15,8 +15,8 @@ You can view my Trello at (https://trello.com/b/6wWPUVzh/project-1)
 
 ### Projects 
 * [Project 1](http://ozy8.github.io/projectDonaldTrumped/)
-
-
+* [Project 2 Heroku](https://intense-gorge-85005.herokuapp.com/)
+* [Project 2 Github source code](https://github.com/ozy8/musical_signpost)
 
 
 ```javascript
