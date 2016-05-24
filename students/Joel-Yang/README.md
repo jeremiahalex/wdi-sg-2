@@ -32,6 +32,7 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 ## Projects
 
  - [Reaction](misashi.github.io/reactiongame)
+ - [Twitter clone](https://polar-savannah-12812.herokuapp.com/)
 
 # Contributing changes
 ```
@@ -50,5 +51,11 @@ _List of [Labs](https://jeremiahalex.gitbooks.io/sg-wdi-2/content/labs/index.htm
 **_(3/3)_**
 ```
  - Added link to project 1
- - CSS after upload looks to be broken, need to determine fix. - The most stable version, other variants are still being      updated
+ - CSS after upload looks to be broken, need to determine fix. - The most stable version, other variants are still being updated
+```
+
+**_(24/3)_**
+```
+ - Added link to project 2
+
 ```
