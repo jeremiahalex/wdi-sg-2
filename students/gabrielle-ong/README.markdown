@@ -11,3 +11,10 @@
 
 * Project 2 - Application using Ruby on Rails
     - [ToDo Application] (https://obscure-shelf-67308.herokuapp.com/)
+
+* Project 3 - Team Project to develop and consume API
+    - [DevHub](devhub-.herokuapp.com)
+
+* Project 4 - App using Angular 2 Front End Framework
+    - [Ready](http://readyapp.herokuapp.com/)
+    
